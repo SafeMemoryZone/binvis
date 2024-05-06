@@ -2,7 +2,7 @@
 
 Binary visualiser written in C using RayLib.
 
-# Usage
+## Usage
 
 ```console
 $ ./binvis [-a <alpha>] [--m] [-w <window width>] [-h <window height>] -f <file>
@@ -14,12 +14,12 @@ $ ./binvis [-a <alpha>] [--m] [-w <window width>] [-h <window height>] -f <file>
 - `-h` specifies the window height
 - `-f` specifies the path to the file to be visualised (required)
 
-# Keybidings
+## Keybidings
 
 - `<ESC>` to close the window
 - `<F1>` to take screenshot and save it to `screenshot.png`
 
-# Quick start
+## Quick start
 
 1. Create a build directory
 
