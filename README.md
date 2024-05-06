@@ -5,7 +5,7 @@ Binary visualiser written in C using RayLib.
 # Usage
 
 ```console
-./binvis [-a <alpha>] [--m] [-w <window width>] [-h <window height>] -f <file>
+$ ./binvis [-a <alpha>] [--m] [-w <window width>] [-h <window height>] -f <file>
 ```
 
 - `-a` specifies the alpha step (greater alpha, brighter pixels - 255 is max)
