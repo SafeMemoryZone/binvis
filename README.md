@@ -12,7 +12,7 @@ $ ./binvis [-a <alpha>] [--m] [-w <window width>] [-h <window height>] -f <file>
 - `--m` specifies to use max mode (the most referenced pixel will be the brightest) 
 - `-w` specifies the window width
 - `-h` specifies the window height
-- '-f' specifies the path to the file to be visualised (required)
+- `-f` specifies the path to the file to be visualised (required)
 
 # Keybidings
 
